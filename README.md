@@ -11,9 +11,9 @@ Need to install Node JS IDE - Visual Studio code Extensions in Visual Studio Cod
 3. npm i --save-dev @babel/cli @babel/core @babel/node @babel/preset-env @babel/register
 
 # Installing
-Clone the repo git clone https://github.com/HemanthV1987/HeartRate
+Clone the repo git clone [https://github.com/HemanthV1987/HeartRateCalculation]
 
 # Execution 
-To execute the code - in terminal type 
-npm test
+To execute the code in terminal type 
+- npm test
 The test cases will be executed.
