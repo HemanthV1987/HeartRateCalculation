@@ -13,7 +13,7 @@ Need to install Node JS IDE - Visual Studio code Extensions in Visual Studio Cod
 # Installing
 Clone the repo git clone https://github.com/HemanthV1987/HeartRate
 
-#Execution 
+# Execution 
 To execute the code - in terminal type 
 npm test
 The test cases will be executed.
