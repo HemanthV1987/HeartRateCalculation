@@ -16,4 +16,3 @@ Clone the repo git clone [https://github.com/HemanthV1987/HeartRateCalculation]
 # Execution 
 To execute the code in terminal type 
 - npm test
-The test cases will be executed.
